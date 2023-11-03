@@ -2,7 +2,6 @@
 	import TopAppBar, { Row, Section, AutoAdjust, TopAppBarComponentDev } from '@smui/top-app-bar';
 	import IconButton from '@smui/icon-button';
 	import SplitioIcon from '$lib/SplitioIcon.svelte';
-
 	let topAppBar: TopAppBarComponentDev;
 
 	let lightTheme =

@@ -1,6 +1,8 @@
-@use 'sass:color';
 
+// Svelte config!
+@use 'sass:color';
 @use '@material/theme/color-palette';
+
 
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
