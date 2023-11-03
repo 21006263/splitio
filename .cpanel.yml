@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/megu4827/public_html/
+    - /bin/cp -r public/ $DEPLOYPATH
+ 
